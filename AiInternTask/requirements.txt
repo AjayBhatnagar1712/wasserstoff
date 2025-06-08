@@ -1,7 +1,6 @@
 streamlit
-pytesseract
-Pillow
-chromadb
-sentence-transformers
-PyMuPDF
 PyPDF2
+chromadb==0.4.24
+sentence-transformers
+protobuf==3.20.3
+opentelemetry-exporter-otlp-proto-grpc==1.15.0
