@@ -7,4 +7,4 @@ pytesseract
 Pillow
 PyMuPDF
 transformers==4.40.1
-sentence-transformers @ https://github.com/Ajay1007/fixed-sentence-transformers/archive/refs/heads/main.zip
+sentence-transformers @ https://github.com/openai-ajay/fixed-sentence-transformers/archive/refs/heads/main.zip
