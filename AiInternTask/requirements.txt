@@ -6,5 +6,6 @@ pdfplumber
 pytesseract
 Pillow
 PyMuPDF
-transformers==4.40.1
+transformers==4.41.0
+setuptools>=67.0
 sentence-transformers @ https://github.com/AjayBhatnagar1712/fixed-sentence-transformers/archive/refs/heads/main.zip
